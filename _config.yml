@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Dhimas Akbar Noor Baihaque
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Merbot Langgar, Developer Awam
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/13671268?v=3&u=308c750ce93d9b1a0b1cd213fe4e0d99bf08e2f1&s=400
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: dhimasakbarnoorbaihaque@gmail.com
+  facebook: facebook.com/dhimasanb
   flickr:
-  github: barryclark/jekyll-now
+  github: dhimasanb/dhimasanb.github.io
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
