@@ -32,6 +32,9 @@ Setelah composer terinstall , kita akan menggunakan Laragon untuk menjalankan Yi
 7. Begitu juga ketika akses browser frontend melalui url: http://(nama-folder).web/frontend/web, Maka sudah terlihat backend Yii2: 
 ![alt text](https://github.com/dhimasanb/dhimasanb.github.io/blob/master/resources/web-lanjutan-prak2/7.PNG?raw=true "Composer Require")
 
+Sekian, Terima Kasih.
+Wassalamu'alaikum Wr. Wb
+
 <hr>
 
 #### Daftar Pustaka
